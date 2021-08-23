@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Carro Bluetooth</string>
+    <string name="shared_preference_key">com.d2magicos.bluetoohapp.f635f2e523d7c64f5b4ad9179b689433</string>
+    <string name="text_bluetooth_adapter_error">Error Bluetooth Adapter, porfavor reinicia tu telefono</string>
+    <string name="text_unknown_error">Unknown error: porfavor reinicia la aplicación</string>
+    <string name="text_no_bluetooth_permission">No se puede iniciar bluetooth, revise sus permisos</string>
+    <string name="text_unable_to_connect_to_device">No se puede conectar al dispositivo</string>
+    <string name="text_device_connection_was_lost">Se perdió la conexión del dispositivo</string>
+    <string name="text_usb_service_foreground_message">Esto manejará toda la comunicación Usb</string>
+    <string name="text_bluetooth_service_foreground_message">Esto manejará toda la comunicación Bluetooth</string>
+    <string name="text_bluetooth_service">Servicio Bluetooth</string>
+    <string name="text_no_bluetooth_adapter">Adaptador Bluetooth no encontrado</string>
+    <string name="text_default_connection">Conexión por defecto</string>
+    <string name="text_connected_to">Conectado a </string>
+    <string name="text_connection_lost">Perdió conexión</string>
+    <string name="text_paired_devices">Elige el dispositivo a emparejar</string>
+    <string name="text_bluetooth_adaptor_error">Error bluetooth adaptador!</string>
+    <string name="text_no_paired_devices">Dispositivos no emparejados</string>
+    <string name="text_select_paired_device">Selecciona dispositivo emparejado</string>
+    <string name="text_none_found">No encontrado</string>
+    <string name="text_not_connected">No conectado</string>
+    <string name="text_connecting">Conectando&#8230;.</string>
+    <string name="text_disconnect">Desconectar!</string>
+    <string name="text_connected">Conectado</string>
+    <string name="text_settings">Ajustes</string>
+    <string name="text_connect">Conectar</string>
+    <string name="text_reset">Resetear</string>
+    <string name="preference_auto_connect">auto_connect</string>
+    <string name="text_disconnect_confirm">Esta seguro que desea desconectar?</string>
+    <string name="text_yes_confirm">Si</string>
+    <string name="text_cancel">Cancelar</string>
+    <string name="text_bt_service_not_running">Servicio Bluetooth no esta ejecutandose!</string>
+    <string name="text_bt_not_enabled">Bluetooth no está habilitado!</string>
+    <string name="preference_update_pool_interval">preference_update_pool_interval</string>
+    <string name="preference_last_connected_device">last_connected_device</string>
+</resources>
